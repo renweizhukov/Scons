@@ -1,0 +1,7 @@
+# Scons files
+.sconsign.dblite
+[Bb]uild
+
+# Binaries
+*.obj
+*.exe
