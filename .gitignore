@@ -4,4 +4,6 @@
 
 # Binaries
 *.obj
+*.lib
+*.dll
 *.exe
