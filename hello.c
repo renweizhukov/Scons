@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello %s!\n", NAME);
+    printf("Hello %s! The number is %d.\n", NAME, TEST_NUM);
 }
