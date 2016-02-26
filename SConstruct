@@ -1,1 +1,1 @@
-Program('hello.c')
+Program('rwHello', ['hello.c'], CPPPATH='.')

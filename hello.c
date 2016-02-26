@@ -1,4 +1,6 @@
+#include "hello.h"
+
 int main()
 {
-    printf("Hello, world!\n");
+    printf("Hello %s!\n", NAME);
 }
